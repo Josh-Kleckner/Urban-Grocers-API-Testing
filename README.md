@@ -39,7 +39,7 @@ As part of the project, I utilized **apiDOC** for API documentation to locate en
    npx jest tests/putHandlers.test.js
  *or*
  
-5. Runall tests at once:
+5. Run all tests at once:
    ```bash
     npm test
 
