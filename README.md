@@ -20,6 +20,29 @@ As part of the project, I utilized **apiDOC** for API documentation to locate en
 - Structured and modular test files to ensure maintainability and scalability.  
 - Hands-on debugging and verification via Postman and apiDOC.
 
+## Tasks
+Add your tests to the appropriate files in the tests folder. Use a variable from config.js as your API endpoint.
+
+### Task 1: Tests for GET requests
+For the first task, we need to select one endpoint from the Urban Grocers documentation and write at least two tests:
+- Check the response status code
+- Parse the response and check that the response body contains the expected data
+  
+### Task 2: Tests for POST requests
+In the second task, we need to choose one endpoint from the Urban Grocers documentation and write at least two tests:
+- Check the response status code
+- Parse the response and check that the response body contains the expected data
+
+### Task 3: Tests for PUT requests
+In the third task, we need to choose one endpoint from the Urban Grocers documentation and write at least two tests:
+- Check the response status code
+- Parse the response and check that the response body contains the expected data
+
+### Task 4: Tests for DELETE requests
+In the fourth task, we need to choose one handler from the Urban Grocers documentation and write at least two tests:
+- Check the response status code
+- Parse the response and check that the response body contains the expected data
+
 ## Running Tests
 1. Clone the repository:  
    Open your terminal and create a directory for the repository. Run the command:  
